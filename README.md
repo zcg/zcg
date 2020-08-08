@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **zcg/zcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-欢迎大家来访：![zcg](https://count.getloli.com/get/@zcg?theme=rule34.xxx)
+
+欢迎来访：![zcg](https://count.getloli.com/get/@zcg?theme=rule34)
