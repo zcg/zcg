@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-欢迎来访：![zcg](https://count.getloli.com/get/@zcg?theme=rule34)
+欢迎来访，猫猫送上：![zcg](https://count.getloli.com/get/@zcg?theme=rule34)
