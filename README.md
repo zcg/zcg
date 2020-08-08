@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-访问数：https://count.getloli.com/get/@zcg
+欢迎大家来访：![:name](https://count.getloli.com/get/zcg?theme=rule34)
