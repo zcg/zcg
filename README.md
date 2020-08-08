@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-  Hi！ <img src="https://cdn.jsdelivr.net/gh/zcg/images/20200808221033.gif" width="100" height="100" align="middle" />欢迎来访，猫猫送上：![zcg](https://count.getloli.com/get/@zcg?theme=rule34)
+  Hi！ <img src="https://cdn.jsdelivr.net/gh/zcg/images/20200808221033.gif" width="50" height="50" align="middle" />欢迎来访，猫猫送上：![zcg](https://count.getloli.com/get/@zcg?theme=rule34)
 
 
 
