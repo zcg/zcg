@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-  Hi！ <img src="https://cdn.jsdelivr.net/gh/zcg/images/20200808221033.gif" width="50" height="50" align="middle" />
+  Hi！
