@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
- Hello World！
+业余兴趣intellij idea based 系列IDE插件开发，致力于开发好玩有用的idea插件
