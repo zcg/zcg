@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-# Live long and prosper
+<font color=red size=72>Live long and prosper</font>
