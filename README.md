@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   -->
 
 # Live long and prosper
+
+GPG Public Key: 133F 83F2 48C0 2D60
