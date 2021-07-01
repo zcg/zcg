@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 # Live long and prosper
 
-###  GPG Public Key: 133F83F248C02D60
+###  GPG Public Key: A0E7466D27B132FB
